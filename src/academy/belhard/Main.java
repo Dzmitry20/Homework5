@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println();
 
-        System.out.println("Верный ли пороль: ");
+        System.out.println("Верный ли пароль: ");
         System.out.println(user.isPasswordCorrect("100500"));
 
     }
